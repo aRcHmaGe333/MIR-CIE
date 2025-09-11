@@ -32,7 +32,7 @@ Each component operates independently but creates exponential value when integra
 ## Value Proposition
 
 - **For Artists**: Multiple pathways to success without forced self-promotion
-- **For Fans**: Active participation in the creative process, not just consumption
+- **For Fans**: Active participation in the creative process, not just consumption. A new model of exposure, revenue and distributuion, education.
 - **For Industry**: Systematic solutions to replace expensive guesswork
 
 ## Implementation
@@ -41,8 +41,8 @@ Modular launch strategy - each component proves concept independently while buil
 
 ## Public Benefit
 
-Upon successful market validation, methodologies will transition to public domain to benefit the global creative community.
+Upon successful market validation and consolidation, methodologies will transition to public domain to benefit the global creative community.
 
 ---
 © 2025-07-24 by Slavko Stojnić (in Stockholm, Sweden). All Rights Reserved.
-*Fixing the music industry through targeted innovation - specific solutions for specific broken parts.*
+*Fixing the music industry through targeted innovation - targeted solutions for particular(ly) broken parts.*
