@@ -85,7 +85,6 @@ See [docs/INTEGRATION_OPPORTUNITIES.md](./docs/INTEGRATION_OPPORTUNITIES.md) for
 
 - **`/docs`** — Supporting research, frameworks, and resources
   - `/legal` — Legal frameworks and compliance guidance
-  - `/exposure` — Active exposure strategy, investor taxonomy, partner matrix, one-pagers, and execution checkpoints
   - `/technical` — Technical specifications and architecture
   - `/research` — Market research and industry analysis
   - `/outreach` — Communication templates and pitch materials
@@ -115,7 +114,7 @@ Each project welcomes different types of contributions:
 - **Developers**: Technical architecture, implementation, infrastructure
 - **Designers**: User experience, interfaces, visual identity
 - **Business Professionals**: Strategy, partnerships, market analysis
-- **Investors/Enablers**: Funding, authority, permits/compliance access, technical sponsorship, operations/security/logistics support
+- **Supporters & Partners**: Resources, collaboration pathways, and implementation support
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on how to contribute to any or all projects.
 
@@ -126,7 +125,7 @@ All four projects are in **concept and design phase**. Comprehensive documentati
 1. Independent development of each project
 2. Understanding of problems solved and value created
 3. Technical and business planning
-4. Stakeholder engagement (artists, investors, partners)
+4. Stakeholder engagement (artists and partners)
 5. Optional integration when projects coexist
 
 **Next steps vary by project**:
@@ -146,28 +145,5 @@ For inquiries about specific projects:
 For general inquiries or to discuss supporting multiple projects:
 - **Email**: info@music-industry-revolution.com
 - **GitHub**: Open issues or discussions in this repository
-
-## Exposure Program v2 (Implemented)
-
-Current exposure posture is project-first and independent:
-
-- **Public now**: Studio Pass, Dimensional Knob, Fusion Factory
-- **Deferred/private framing**: The Scouting Label (until wording/legal posture is hardened)
-- **Cross-project mentions**: conditional only, when it strengthens ROI/risk clarity
-
-The expanded investor definition, partner matrix, 90-day execution plan, and Fusion Factory site-readiness model are implemented in:
-
-- [docs/exposure/EXPOSURE_PLAN_V2_IMPLEMENTED.md](./docs/exposure/EXPOSURE_PLAN_V2_IMPLEMENTED.md)
-- [docs/exposure/INVESTOR_TYPES_AND_ENABLEMENT.md](./docs/exposure/INVESTOR_TYPES_AND_ENABLEMENT.md)
-- [docs/exposure/PARTNER_TARGET_MATRIX.md](./docs/exposure/PARTNER_TARGET_MATRIX.md)
-- [docs/exposure/NINETY_DAY_EXECUTION.md](./docs/exposure/NINETY_DAY_EXECUTION.md)
-- [docs/exposure/FUSION_FACTORY_SITE_READINESS.md](./docs/exposure/FUSION_FACTORY_SITE_READINESS.md)
-- [docs/exposure/PROJECT_ONE_PAGERS_V2.md](./docs/exposure/PROJECT_ONE_PAGERS_V2.md)
-- [docs/exposure/SCOUTING_LABEL_PRIVATE_POSTURE.md](./docs/exposure/SCOUTING_LABEL_PRIVATE_POSTURE.md)
-- [docs/exposure/ACCEPTANCE_CHECKLIST.md](./docs/exposure/ACCEPTANCE_CHECKLIST.md)
-- [docs/legal/IP_PROVENANCE_REGISTER.md](./docs/legal/IP_PROVENANCE_REGISTER.md)
-- [docs/legal/IPCONFIG_PROOF.md](./docs/legal/IPCONFIG_PROOF.md)
-
----
 
 © 2025-07-24 by Slavko Stojnić (in Stockholm, Sweden). All Rights Reserved.
