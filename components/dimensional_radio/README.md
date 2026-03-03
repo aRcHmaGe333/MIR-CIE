@@ -1,8 +1,8 @@
-# Dimensional Radio: Real-Time Music Metamorphosis for Live Performance
+# Dimensional Knob (formerly Dimensional Radio): Real-Time Music Metamorphosis for Live Performance
 
 ## Overview
 
-Dimensional Radio is an independent live performance instrument that enables DJs and performers to generate beat-synchronous variations of tracks in real-time. It's a tool for controlled musical exploration—allowing performers to navigate through coherent "dimensions" of a track while maintaining mixability and groove.
+Dimensional Knob (formerly Dimensional Radio) is an independent live performance instrument that enables DJs and performers to generate beat-synchronous variations of tracks in real-time. It's a tool for controlled musical exploration—allowing performers to navigate through coherent "dimensions" of a track while maintaining mixability and groove.
 
 This is a **standalone product** that can be developed, deployed, and monetized independently. It requires no external platforms or dependencies to deliver complete value.
 
@@ -27,7 +27,7 @@ This is a **standalone product** that can be developed, deployed, and monetized 
 
 ## The Solution
 
-Dimensional Radio is a performance instrument that generates beat-synchronous variations of loaded tracks through an intuitive knob-based interface. Performers control **how far** and **when** a track diverges from its original form—creating coherent musical journeys that preserve groove and mixability until deliberately taken elsewhere.
+Dimensional Knob is a performance instrument that generates beat-synchronous variations of loaded tracks through an intuitive knob-based interface. Performers control **how far** and **when** a track diverges from its original form—creating coherent musical journeys that preserve groove and mixability until deliberately taken elsewhere.
 
 ### Core Capabilities
 
@@ -435,6 +435,23 @@ See [TECHNICAL_SPECIFICATION.md](./TECHNICAL_SPECIFICATION.md) for API documenta
 
 ### For Hardware Partners
 Contact partnerships@dimensionalradio.io for integration opportunities.
+
+## Exposure v2: Investor Types and Provenance
+
+**Investor/enabler types for this project:**
+- Strategic operators (performers, venues, media operators)
+- Technical ecosystem partners (Ableton, Native Instruments, Serato, Pioneer, Steinberg, FL Studio ecosystem relevance)
+- Financial investors
+
+**Current exposure posture:**
+- Public now (active exposure track)
+- Cross-project mentions are conditional only when they improve ROI/risk clarity
+
+**Provenance/IP block:**
+- Original public disclosure date: 2025-06-08
+- Original disclosure reference: `components/dimensional_radio/PUBLIC_DESCRIPTION.md`
+- Current IPClaim linkage date: 2026-03-02
+- Register: `docs/legal/IP_PROVENANCE_REGISTER.md`
 
 ## Contributing
 

@@ -2,9 +2,21 @@
 
 ## Overview
 
-This document provides email templates, pitch decks outlines, and communication guidelines for reaching out to stakeholders for Studio Pass, Dimensional Radio, The Scouting Label, and Fusion Factory.
+This document provides email templates, pitch deck outlines, and communication guidelines for reaching out to stakeholders for Studio Pass, Dimensional Knob (formerly Dimensional Radio), The Scouting Label, and Fusion Factory.
 
 **Important**: Customize these templates for each specific project and recipient. These are starting points, not final copy.
+
+## Exposure v2 Context (Must Apply)
+
+- Public now: Studio Pass, Dimensional Knob (formerly Dimensional Radio), Fusion Factory
+- Deferred/private framing: The Scouting Label
+- Cross-project mentions: conditional only when ROI/risk clarity improves
+- "Investor" includes non-financial execution enablers (authority, institutional access, permits/compliance leverage, ops/security/logistics support)
+
+Use the segmented packet set for first-cycle outreach:
+- `docs/outreach/PARTNER_PACKETS_V2.md`
+- `docs/exposure/INVESTOR_TYPES_AND_ENABLEMENT.md`
+- `docs/exposure/PARTNER_TARGET_MATRIX.md`
 
 ## General Principles
 
@@ -129,7 +141,7 @@ Best,
 
 ---
 
-## Dimensional Radio: Outreach Templates
+## Dimensional Knob (formerly Dimensional Radio): Outreach Templates
 
 ### Template 1: DJ/Performer Beta Invitation
 

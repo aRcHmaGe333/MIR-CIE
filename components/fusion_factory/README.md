@@ -147,7 +147,7 @@ Fusion Factory is a 24/7 creative venue where:
 **Audio Infrastructure**:
 - Networked audio (Dante or MADI)
 - Multiple Ableton Live and DAW instances
-- Dimensional Radio integration (optional)
+- Dimensional Knob integration (optional)
 - Effects processing racks
 - Sample libraries and sound banks
 - MIDI instrument suite
@@ -557,6 +557,20 @@ While Fusion Factory is fully independent, it CAN optionally integrate with:
 
 **These integrations are opportunities, not requirements.**
 
+## Site Readiness and Program Safety (Exposure v2 Requirement)
+
+Fusion Factory is positioned as cultural infrastructure and program engine, not only a venue startup.
+
+Pre-pilot readiness gates:
+1. Security model approved (incident handling, escalation, crowd flow).
+2. Residential impact risk acceptable (sound/time/traffic mitigation).
+3. Operational command structure defined (roles and comms).
+4. Technical assembly + stress test passed (audio, sync, connectivity, capture).
+5. Program schedule validated (performances + workshops + multidisciplinary participation).
+
+Detailed execution checklist:
+- `docs/exposure/FUSION_FACTORY_SITE_READINESS.md`
+
 ## Getting Started
 
 ### For Cities/Developers
@@ -578,6 +592,23 @@ While Fusion Factory is fully independent, it CAN optionally integrate with:
 - Review financial projections per location
 - Discuss partnership and franchise opportunities
 - Schedule site visit to flagship location
+
+## Exposure v2: Investor Types and Provenance
+
+**Investor/enabler types for this project:**
+- Institutional/public actors (city, cultural authority, venue controller)
+- Program enablers (security, compliance, logistics, production operations)
+- Strategic operators and technical sponsors
+- Financial investors (with pilot-first risk posture)
+
+**Current exposure posture:**
+- Public now (active exposure track)
+- Pilot-first pathway; no mandatory permanent flagship capex claim in first cycle
+
+**Provenance/IP block:**
+- Original disclosure reference: `components/fusion_factory/README.md`
+- Current IPClaim linkage date: 2026-03-02
+- Register: `docs/legal/IP_PROVENANCE_REGISTER.md`
 
 ### For Equipment Partners
 - Contact partnerships@fusionfactory.io

@@ -469,6 +469,16 @@ While The Scouting Label is fully independent, it CAN optionally collaborate wit
 - Schedule pitch meeting
 - Discuss partnership opportunities
 
+## Exposure v2 Posture
+
+Current cycle status:
+- private/deferred exposure track
+- no broad public campaign until framing/legal posture is hardened
+
+See:
+- `docs/exposure/SCOUTING_LABEL_PRIVATE_POSTURE.md`
+- `docs/legal/IP_PROVENANCE_REGISTER.md`
+
 ## Contributing
 
 We welcome contributions from:

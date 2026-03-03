@@ -308,6 +308,22 @@ See [TECHNICAL_SPECIFICATION.md](./TECHNICAL_SPECIFICATION.md) for detailed API 
 ### For Investors
 See [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) for detailed financial projections and market analysis.
 
+## Exposure v2: Investor Types and Provenance
+
+**Investor/enabler types for this project:**
+- Financial investors
+- Strategic operators (creator platforms, music operators)
+- Technical ecosystem partners (creator workflow/distribution credibility)
+
+**Current exposure posture:**
+- Public now (active exposure track)
+- Cross-project mentions are conditional only when they improve ROI/risk clarity
+
+**Provenance/IP block:**
+- Original disclosure reference: `components/studio_pass/README.md`
+- Current IPClaim linkage date: 2026-03-02
+- Register: `docs/legal/IP_PROVENANCE_REGISTER.md`
+
 ## Contributing
 
 We welcome contributions from:

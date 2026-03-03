@@ -17,12 +17,12 @@ This repository collects design and engineering materials for four independent p
 
 ---
 
-### Dimensional Radio
+### Dimensional Knob (formerly Dimensional Radio)
 **Problem:** DJs and performers are limited to existing recordings or pre-prepared edits, creating barriers to spontaneous creativity and requiring extensive preparation time.
 
 **Solution:** A live and studio tool that generates coherent, beat-synchronous variations in real-time. Load a track, turn a knob, and create remixes that preserve the original groove until the performer deliberately takes the room somewhere different. No preparation required, but preparation is always an option.
 
-**Independence:** Dimensional Radio functions as a complete performance instrument. It works with any audio source and integrates with standard DJ equipment without requiring other platforms.
+**Independence:** Dimensional Knob functions as a complete performance instrument. It works with any audio source and integrates with standard DJ equipment without requiring other platforms.
 
 **Learn more:** See [components/dimensional_radio/README.md](./components/dimensional_radio/README.md)
 
@@ -52,7 +52,7 @@ This repository collects design and engineering materials for four independent p
 
 **Studio Pass** solves the unreleased-material monetization problem and fan disconnection. It turns production into a shared, witnessed process instead of a private black box.
 
-**Dimensional Radio** solves live performance creative limitations while preserving the adventure and risk that makes performing compelling. A performer can explore infinite musical directions while maintaining coherence and mixability.
+**Dimensional Knob** solves live performance creative limitations while preserving the adventure and risk that makes performing compelling. A performer can explore infinite musical directions while maintaining coherence and mixability.
 
 **The Scouting Label** solves the expensive, unreliable dual-risk problem of traditional A&R—betting simultaneously on song quality and artist-material fit. It systematically matches validated songs with authentically aligned performers.
 
@@ -62,12 +62,12 @@ Each project addresses a distinct, standalone problem. Each can succeed independ
 
 ## Independent Projects, Optional Compatibility
 
-**Each project stands alone.** Studio Pass works without Dimensional Radio. Dimensional Radio works without Studio Pass. The Scouting Label operates independently. Fusion Factory runs as a self-contained venue. None require the others to deliver complete value.
+**Each project stands alone.** Studio Pass works without Dimensional Knob. Dimensional Knob works without Studio Pass. The Scouting Label operates independently. Fusion Factory runs as a self-contained venue. None require the others to deliver complete value.
 
 **But they can enhance each other.** When these projects coexist, natural synergies emerge:
 
 - Studio Pass material could be performed at Fusion Factory
-- Dimensional Radio might generate variations of Studio Pass unreleased tracks
+- Dimensional Knob might generate variations of Studio Pass unreleased tracks
 - The Scouting Label could discover talent through Fusion Factory performances
 - Artists might use multiple projects in their creative workflows
 
@@ -79,12 +79,13 @@ See [docs/INTEGRATION_OPPORTUNITIES.md](./docs/INTEGRATION_OPPORTUNITIES.md) for
 
 - **`/components`** — Detailed specifications and documentation for each independent project
   - `/studio_pass` — Fan subscription platform for unreleased material
-  - `/dimensional_radio` — Real-time performance variation tool
+  - `/dimensional_radio` — Real-time performance variation tool (public name: Dimensional Knob)
   - `/scouting_label` — Post-production artist discovery system
   - `/fusion_factory` — Collaborative creative venue model
 
 - **`/docs`** — Supporting research, frameworks, and resources
   - `/legal` — Legal frameworks and compliance guidance
+  - `/exposure` — Active exposure strategy, investor taxonomy, partner matrix, one-pagers, and execution checkpoints
   - `/technical` — Technical specifications and architecture
   - `/research` — Market research and industry analysis
   - `/outreach` — Communication templates and pitch materials
@@ -95,7 +96,8 @@ See [docs/INTEGRATION_OPPORTUNITIES.md](./docs/INTEGRATION_OPPORTUNITIES.md) for
 
 ## Provenance and Attribution
 
-**Dimensional Radio** has a detailed public specification authored by Slavko Stojnić:
+**Dimensional Knob** has a detailed public specification authored by Slavko Stojnić.
+The original disclosure was published as **Dimensional Radio**:
 
 - "Dimensional Radio: MetaMorphing the DJ/Live Performance — A Proposed Remix-Layering System"  
   Published on Medium, June 8, 2025  
@@ -113,7 +115,7 @@ Each project welcomes different types of contributions:
 - **Developers**: Technical architecture, implementation, infrastructure
 - **Designers**: User experience, interfaces, visual identity
 - **Business Professionals**: Strategy, partnerships, market analysis
-- **Investors**: Funding and strategic support
+- **Investors/Enablers**: Funding, authority, permits/compliance access, technical sponsorship, operations/security/logistics support
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on how to contribute to any or all projects.
 
@@ -129,7 +131,7 @@ All four projects are in **concept and design phase**. Comprehensive documentati
 
 **Next steps vary by project**:
 - **Studio Pass**: Technical architecture, beta artist recruitment
-- **Dimensional Radio**: AI model development, performer partnerships
+- **Dimensional Knob**: AI model development, performer partnerships
 - **The Scouting Label**: Proof of concept with initial tracks and artists
 - **Fusion Factory**: City partnerships, venue design, location scouting
 
@@ -137,13 +139,34 @@ All four projects are in **concept and design phase**. Comprehensive documentati
 
 For inquiries about specific projects:
 - **Studio Pass**: [components/studio_pass/README.md](./components/studio_pass/README.md#contact)
-- **Dimensional Radio**: [components/dimensional_radio/README.md](./components/dimensional_radio/README.md#contact)
+- **Dimensional Knob**: [components/dimensional_radio/README.md](./components/dimensional_radio/README.md#contact)
 - **The Scouting Label**: [components/scouting_label/README.md](./components/scouting_label/README.md#contact)
 - **Fusion Factory**: [components/fusion_factory/README.md](./components/fusion_factory/README.md#contact)
 
 For general inquiries or to discuss supporting multiple projects:
 - **Email**: info@music-industry-revolution.com
 - **GitHub**: Open issues or discussions in this repository
+
+## Exposure Program v2 (Implemented)
+
+Current exposure posture is project-first and independent:
+
+- **Public now**: Studio Pass, Dimensional Knob, Fusion Factory
+- **Deferred/private framing**: The Scouting Label (until wording/legal posture is hardened)
+- **Cross-project mentions**: conditional only, when it strengthens ROI/risk clarity
+
+The expanded investor definition, partner matrix, 90-day execution plan, and Fusion Factory site-readiness model are implemented in:
+
+- [docs/exposure/EXPOSURE_PLAN_V2_IMPLEMENTED.md](./docs/exposure/EXPOSURE_PLAN_V2_IMPLEMENTED.md)
+- [docs/exposure/INVESTOR_TYPES_AND_ENABLEMENT.md](./docs/exposure/INVESTOR_TYPES_AND_ENABLEMENT.md)
+- [docs/exposure/PARTNER_TARGET_MATRIX.md](./docs/exposure/PARTNER_TARGET_MATRIX.md)
+- [docs/exposure/NINETY_DAY_EXECUTION.md](./docs/exposure/NINETY_DAY_EXECUTION.md)
+- [docs/exposure/FUSION_FACTORY_SITE_READINESS.md](./docs/exposure/FUSION_FACTORY_SITE_READINESS.md)
+- [docs/exposure/PROJECT_ONE_PAGERS_V2.md](./docs/exposure/PROJECT_ONE_PAGERS_V2.md)
+- [docs/exposure/SCOUTING_LABEL_PRIVATE_POSTURE.md](./docs/exposure/SCOUTING_LABEL_PRIVATE_POSTURE.md)
+- [docs/exposure/ACCEPTANCE_CHECKLIST.md](./docs/exposure/ACCEPTANCE_CHECKLIST.md)
+- [docs/legal/IP_PROVENANCE_REGISTER.md](./docs/legal/IP_PROVENANCE_REGISTER.md)
+- [docs/legal/IPCONFIG_PROOF.md](./docs/legal/IPCONFIG_PROOF.md)
 
 ---
 

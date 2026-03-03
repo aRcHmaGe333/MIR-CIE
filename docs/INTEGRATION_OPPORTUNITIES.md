@@ -4,6 +4,8 @@
 
 The four music industry projects—**Studio Pass**, **Dimensional Radio**, **The Scouting Label**, and **Fusion Factory**—are **completely independent** and can be developed, deployed, and scaled separately. Each solves a distinct problem and generates its own value and revenue.
 
+> Naming note: the public-facing name in current exposure materials is **Dimensional Knob** (formerly Dimensional Radio). This document preserves historical naming in scenario text where relevant.
+
 **This document explores OPTIONAL integration opportunities**—ways these projects can enhance each other when they coexist, but these integrations are **opportunities, not requirements**.
 
 ## Core Principle: Independence First

@@ -9,7 +9,7 @@ Welcome! This repository contains comprehensive documentation for four independe
 **What is this?**
 Documentation for four independent music industry innovations:
 1. **Studio Pass**: Fan subscriptions for unreleased music
-2. **Dimensional Radio**: Real-time DJ/performance tool
+2. **Dimensional Knob** (formerly Dimensional Radio): Real-time DJ/performance tool
 3. **The Scouting Label**: Post-production artist discovery
 4. **Fusion Factory**: Collaborative music venue
 
@@ -32,7 +32,7 @@ Concept and design phase. Looking for contributors, partners, and supporters.
 
 ---
 
-### Dimensional Radio
+### Dimensional Knob (formerly Dimensional Radio)
 **The Problem:** DJs limited to existing recordings. Performance requires extensive preparation. Spontaneity is risky.
 
 **The Solution:** Real-time tool that generates beat-synced variations of any track. Turn a knob, explore musical dimensions, maintain mixability. Zero prep required.
@@ -98,7 +98,7 @@ How to get involved:
 ### I'm an Artist/Musician
 **Check out:**
 - Studio Pass if you have unreleased material
-- Dimensional Radio if you perform live
+- Dimensional Knob if you perform live
 - Fusion Factory if you want to collaborate
 - All projects welcome artist feedback and beta testing
 
@@ -132,6 +132,7 @@ How to get involved:
 - Financial projections and revenue models
 - Traction and validation plans
 - Contact information for investment discussions
+- `docs/exposure/INVESTOR_TYPES_AND_ENABLEMENT.md` for expanded investor/enabler model
 
 **Start here:** Individual project README files, then reach out via contact info
 
@@ -194,6 +195,19 @@ A: Yes! Each project is designed to work with existing industry infrastructure. 
 A: Start with the main [README.md](./README.md), then read the full README for whichever project interests you most.
 
 ## Next Steps
+
+## Exposure Plan v2
+
+Current execution posture:
+- Public now: Studio Pass, Dimensional Knob, Fusion Factory
+- Deferred/private framing: The Scouting Label
+- Cross-project references: only where strategically relevant
+- Investor definition includes non-capital execution enablers
+
+See:
+- [docs/exposure/EXPOSURE_PLAN_V2_IMPLEMENTED.md](./exposure/EXPOSURE_PLAN_V2_IMPLEMENTED.md)
+- [docs/exposure/NINETY_DAY_EXECUTION.md](./exposure/NINETY_DAY_EXECUTION.md)
+- [docs/exposure/FUSION_FACTORY_SITE_READINESS.md](./exposure/FUSION_FACTORY_SITE_READINESS.md)
 
 ### To Learn More
 1. Read [README.md](./README.md) for overview
@@ -266,7 +280,16 @@ MIR-CIE/
     ├── research/
     │   └── MARKET_RESEARCH.md       # Market analysis
     ├── outreach/
-    │   └── OUTREACH_TEMPLATES.md    # Communication templates
+    │   ├── OUTREACH_TEMPLATES.md    # Communication templates
+    │   └── PARTNER_PACKETS_V2.md    # Segmented partner packets
+    ├── exposure/
+    │   ├── EXPOSURE_PLAN_V2_IMPLEMENTED.md
+    │   ├── INVESTOR_TYPES_AND_ENABLEMENT.md
+    │   ├── PARTNER_TARGET_MATRIX.md
+    │   ├── NINETY_DAY_EXECUTION.md
+    │   ├── FUSION_FACTORY_SITE_READINESS.md
+    │   ├── PROJECT_ONE_PAGERS_V2.md
+    │   └── SCOUTING_LABEL_PRIVATE_POSTURE.md
     └── technical/
         └── ARCHITECTURE_OVERVIEW.md  # Technical architecture
 ```
