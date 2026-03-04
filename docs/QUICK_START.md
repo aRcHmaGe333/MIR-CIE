@@ -257,7 +257,7 @@ While concepts are proprietary, we welcome diverse perspectives, contributions, 
 ## Repository Structure at a Glance
 
 ```
-MIR-CIE/
+MiR/
 ├── README.md                          # Main overview
 ├── CONTRIBUTING.md                    # How to contribute
 ├── COPYRIGHT.md                       # Copyright info
