@@ -2,9 +2,7 @@
 
 ## Overview
 
-Dimensional Knob (formerly Dimensional Radio) is an independent live performance instrument that enables DJs and performers to generate beat-synchronous variations of tracks in real-time. It's a tool for controlled musical exploration—allowing performers to navigate through coherent "dimensions" of a track while maintaining mixability and groove.
-
-This is a **standalone product** that can be developed, deployed, and monetized independently. It requires no external platforms or dependencies to deliver complete value.
+Dimensional Knob (formerly Dimensional Radio) is a live performance instrument that enables DJs and performers to generate beat-synchronous variations of tracks in real-time. It's a tool for controlled musical exploration—allowing performers to navigate through coherent "dimensions" of a track while maintaining mixability and groove.
 
 ## The Problem It Solves
 
@@ -389,19 +387,9 @@ Dimensional Knob is a performance instrument that generates beat-synchronous var
 - **Competition**: Continuous innovation and user feedback
 - **Pricing**: Flexible tiers and freemium option
 
-## Standalone Independence
-
-Dimensional Radio operates completely independently:
-
-- **No External Dependencies**: Works offline, no cloud required (cloud is optional)
-- **Self-Contained**: All processing happens locally
-- **Independent Revenue**: Direct sales and subscriptions
-- **Modular Design**: Can be used alone or with other tools
-- **Complete Solution**: Solves the performance variation problem end-to-end
-
 ### Optional Integration Opportunities
 
-While Dimensional Radio is fully independent, it CAN optionally integrate with:
+Dimensional Radio can optionally integrate with:
 - DJ software (Rekordbox, Serato, Traktor)
 - DAWs (Ableton, FL Studio, Logic)
 - Streaming platforms (for rights tracking)
