@@ -2,19 +2,19 @@
 
 ## For First-Time Visitors
 
-Welcome! This repository contains comprehensive documentation for four independent music industry projects. This guide will help you quickly understand what's here and find what you need.
+Welcome! This repository contains comprehensive documentation for four music industry projects. This guide will help you quickly understand what's here and find what you need.
 
 ## 30-Second Overview
 
 **What is this?**
-Documentation for four independent music industry innovations:
+Documentation for four music industry innovations:
 1. **Studio Pass**: Fan subscriptions for unreleased music
 2. **Dimensional Knob** (formerly Dimensional Radio): Real-time DJ/performance tool
 3. **The Scouting Label**: Post-production artist discovery
 4. **Fusion Factory**: Collaborative music venue
 
 **Why four projects?**
-Each solves a different problem independently. They can optionally work together but don't have to.
+Each solves a different problem. They can optionally work together but don't have to.
 
 **Current status:**
 Concept and design phase. Looking for contributors, partners, and supporters.
@@ -177,7 +177,7 @@ A: The concepts and documentation are proprietary to Slavko Stojnić. Implementa
 A: Implementation requires licensing agreements. Contact via the email addresses in project READMEs to discuss.
 
 **Q: Do I need to be involved in all four projects?**
-A: No! Each project is independent. Contribute to whichever ones interest you.
+A: No! Contribute to whichever ones interest you.
 
 **Q: Are these projects launched yet?**
 A: No, they're in concept/design phase. Documentation is being prepared for implementation, partnership, and funding discussions.
@@ -185,8 +185,8 @@ A: No, they're in concept/design phase. Documentation is being prepared for impl
 **Q: How can I help?**
 A: See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed ways to contribute based on your skills and interests.
 
-**Q: Why are they presented together if they're independent?**
-A: They were conceived by the same person and can optionally enhance each other, but each can succeed alone. Presenting together shows the breadth of innovation while maintaining independence.
+**Q: Why are they presented together?**
+A: They were conceived by the same person and can optionally enhance each other. Presenting together shows the breadth of innovation and the natural synergies when projects coexist.
 
 **Q: Can I use just Studio Pass with my existing tools?**
 A: Yes! Each project is designed to work with existing industry infrastructure. Integration is optional, not required.
