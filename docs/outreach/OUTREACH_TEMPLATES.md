@@ -188,7 +188,7 @@ Hi [Name],
 
 I hope this finds you well. I'm reaching out because [Your Company]'s focus on [innovation/artist needs/specific technology] aligns perfectly with what we're developing.
 
-**Dimensional Radio** is an AI-powered live performance instrument that generates beat-synchronous track variations in real-time. We're seeking hardware integration partners for our public launch.
+**Dimensional Radio** is an AI-powered live performance instrument that opens tracks into large fields of beat-synchronous variation in real time. Performers can move through that space manually or with guided motion patterns, and we're seeking hardware partners for the public launch.
 
 **Why this could be valuable for [Company]:**
 - Differentiation in competitive DJ equipment market

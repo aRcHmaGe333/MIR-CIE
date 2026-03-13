@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the legal considerations, frameworks, and compliance requirements for the four independent music industry projects: Studio Pass, Dimensional Radio, The Scouting Label, and Fusion Factory.
+This document outlines the legal considerations, frameworks, and compliance requirements for the four music industry projects: Studio Pass, Dimensional Radio, The Scouting Label, and Fusion Factory.
 
 **Important**: This is not legal advice. Consult qualified legal counsel before implementing any of these concepts.
 
@@ -504,7 +504,7 @@ This document outlines the legal considerations, frameworks, and compliance requ
 
 ## Conclusion
 
-Legal compliance is essential for all four projects. While each project is independent and has unique legal considerations, all share common requirements around intellectual property, data protection, and user agreements.
+Legal compliance is essential for all four projects. Each project has its own legal considerations, and all share common requirements around intellectual property, data protection, and user agreements.
 
 **Key Principles**:
 1. **Protect the intellectual property** underlying each concept

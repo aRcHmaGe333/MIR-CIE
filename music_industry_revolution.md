@@ -1,6 +1,6 @@
-# Music Industry Revolution: The Complete Integrated Ecosystem
+# Music Industry Revolution: Archived Integrated-System Draft
 
-> **Note**: This document represents an earlier perspective that emphasized integration between the four projects. The repository has since evolved to emphasize that each project is **independent and can succeed on its own**, with integration being optional rather than required. For the current approach, see [README.md](./README.md) and individual project documentation in `/components`. This file is preserved for historical context and to show the potential synergies when projects coexist.
+> **Note**: This document preserves an earlier attempt to describe the four projects as one combined system. It is kept as historical concept material, not as the current public framing. For the current approach, see [README.md](./README.md) and the individual project documentation in `/components`.
 
 ## The Vision Realized
 
@@ -62,7 +62,7 @@ Fusion Factory is where artists from different disciplines work together in real
 
 This is where Studio Pass material gets performed and developed live. Where Dimensional Radio provides source material for collaboration. Where Scouting Label artists demonstrate their connection to material. And where audiences don't just watch—they suggest changes, vote on directions, and become part of the creative process.
 
-## The Integration: How The Components Work Together
+## Combined-System Scenario (Archived Framing)
 
 ### The Content Flow Cycle
 Studio Pass generates audience-validated content and identifies emerging talent through intimate fan relationships. This content flows into Fusion Factory where it's performed, refined, and evolved through real-time collaboration. Dimensional Radio provides unlimited additional material for these live sessions. The Scouting Label finds the perfect human vessels for the most promising tracks emerging from this process.
@@ -118,7 +118,7 @@ This fixes how people relate to music creation.
 
 ## Implementation
 
-Each component works independently and generates revenue while building toward full integration. But together they create exponential value—a complete transformation of how the industry operates.
+In this archived framing, each component generated revenue while also feeding a larger combined system. That was one design path, not the canonical description of the repo today.
 
 Artists who can't get exposure through traditional channels get systematic pathways to success. Audiences who want real creative experiences get to participate in the process itself. The industry gets sustainable models that serve creativity instead of exploiting it.
 
@@ -128,4 +128,4 @@ This is technology serving human creativity, global connection enhancing local c
 
 ---
 
-*This complete integration represents the first systematic solution to the structural problems that have plagued the music industry for decades. By addressing each broken component through targeted innovation while creating exponential value through integration, we're not just disrupting the industry—we're reconstructing it around human creativity and authentic connection.*
+*This archived combined-system draft captures one way the four projects were once imagined together. It remains useful as concept history, but the live repo now describes each project on its own terms and only keeps cross-project references when they add concrete explanatory value.*

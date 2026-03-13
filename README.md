@@ -1,83 +1,60 @@
-# Music Industry Revolution: Four Independent Projects
+# Music Industry Revolution: Four Projects
 
-This repository collects design and engineering materials for four independent products that explore new pathways for artists, performers, and audiences in music.
+This repository collects design and engineering materials for four products that explore new pathways for artists, performers, and audiences in music.
 
-**Each component is a standalone project** that solves a specific problem and can be developed, deployed, and scaled independently. While they can optionally enhance each other when they coexist, **none of them require the others to deliver complete value**.
+These four components address different pressure points in music: artist-fan connection, live performance variation, artist-material matching, and collaborative venue infrastructure.
 
-## The Four Independent Projects
+## The Four Projects
 
 ### Studio Pass
-**Problem:** Artists have mountains of unreleased material generating zero revenue, while fans crave deeper connection with artists' creative processes.
+**Vision:** Transform unreleased material from private burden to shared creative journey. Artists generate revenue while building deeper fan connections through early access and collaborative feedback.
 
-**Solution:** A fan-subscription platform where listeners get early access to unreleased material and influence creative decisions through structured feedback. Half-finished tracks become collaborative objects instead of sitting in folders. Artists get honest early feedback and revenue from engaged listeners before tracks are finished. Fans get unique versions not available anywhere else.
-
-**Independence:** Studio Pass works perfectly as a standalone platform. Artists need no other tools or platforms to monetize unreleased material and build fan relationships.
+**Platform**: Complete fan subscription system for unreleased material and artist-fan connection.
 
 **Learn more:** See [components/studio_pass/README.md](./components/studio_pass/README.md)
 
 ---
 
 ### Dimensional Knob (formerly Dimensional Radio)
-**Problem:** DJs and performers are limited to existing recordings or pre-prepared edits, creating barriers to spontaneous creativity and requiring extensive preparation time.
+**Vision:** Unlock spontaneous creativity in live performance. A real-time instrument that lets performers move through large fields of beat-synchronous variation, by hand or through guided motion patterns, while maintaining coherence and mixability.
 
-**Solution:** A live and studio tool that generates coherent, beat-synchronous variations in real-time. Load a track, turn a knob, and create remixes that preserve the original groove until the performer deliberately takes the room somewhere different. No preparation required, but preparation is always an option.
-
-**Independence:** Dimensional Knob functions as a complete performance instrument. It works with any audio source and integrates with standard DJ equipment without requiring other platforms.
+**Instrument/Tool**: Real-time performance tool for creating musical variations during live sets and recordings.
 
 **Learn more:** See [components/dimensional_radio/README.md](./components/dimensional_radio/README.md)
 
 ---
 
 ### The Scouting Label
-**Problem:** The music industry wastes millions betting simultaneously on both song quality AND artist-song compatibility. Authentic artists who refuse social media marketing get abandoned. Manufactured personas fail to connect with audiences.
+**Vision:** Create authentic artist-song alignment by discovering music first, then finding performers who naturally embody its essence. Post-production artist discovery eliminates the traditional dual-risk of betting simultaneously on song quality and artist fit.
 
-**Solution:** A structured A&R approach that creates commercially viable songs first, then scouts individuals who authentically embody the music—people whose lifestyle, values, and energy naturally align with the track's essence. Post-production artist discovery eliminates dual risk.
-
-**Independence:** The Scouting Label operates as a complete artist development company using existing industry infrastructure for distribution and promotion.
+**Network/System**: Artist development system using post-production discovery and validated material, matching the right performer for each song.
 
 **Learn more:** See [components/scouting_label/README.md](./components/scouting_label/README.md)
 
 ---
 
 ### Fusion Factory
-**Problem:** Artists work isolated with stacks of unreleased material, even in the same city. No infrastructure to connect them for collaboration. Traditional venues require finished, rehearsed material. Audiences remain passive observers.
+**Vision:** Build 24/7 creative venues where musicians collaborate, perform, and create together in real-time. Transform audiences from passive observers to active participants in the creative process while generating sustainable cultural hubs.
 
-**Solution:** A 24/7 creative venue where multiple musicians perform simultaneously, synced together, with a central selector blending them in real-time. Audiences participate in the creative process. International artist exchanges, workshops, and residencies happen alongside spontaneous collaboration. The venue generates its own revenue through events, ticketing, education, and partnerships.
-
-**Independence:** Fusion Factory operates as a self-sustaining venue business. Each location functions independently without requiring connection to other projects or platforms.
+**Organization/Collective**: Self-sustaining creative space for real-time collaboration and performance.
 
 **Learn more:** See [components/fusion_factory/README.md](./components/fusion_factory/README.md)
 
 ## Why These Four Projects
 
-**Studio Pass** solves the unreleased-material monetization problem and fan disconnection. It turns production into a shared, witnessed process instead of a private black box.
+**Studio Pass** creates new revenue streams while making production a shared, witnessed experience instead of a private process.
 
-**Dimensional Knob** solves live performance creative limitations while preserving the adventure and risk that makes performing compelling. A performer can explore infinite musical directions while maintaining coherence and mixability.
+**Dimensional Knob** expands creative freedom in performance while preserving the adventure and risk that makes live music compelling.
 
-**The Scouting Label** solves the expensive, unreliable dual-risk problem of traditional A&R—betting simultaneously on song quality and artist-material fit. It systematically matches validated songs with authentically aligned performers.
+**The Scouting Label** creates authentic artist-song alignment by discovering music first, then finding performers who naturally embody its essence.
 
-**Fusion Factory** solves the isolation problem. Artists working alone with stacks of material finally have infrastructure to collaborate, perform, and be heard. Cities get self-sustaining cultural hubs that produce work and attract talent.
+**Fusion Factory** builds infrastructure for real-time collaboration while creating sustainable cultural hubs that produce work and attract talent.
 
-Each project addresses a distinct, standalone problem. Each can succeed independently without the others.
-
-## Independent Projects, Optional Compatibility
-
-**Each project stands alone.** Studio Pass works without Dimensional Knob. Dimensional Knob works without Studio Pass. The Scouting Label operates independently. Fusion Factory runs as a self-contained venue. None require the others to deliver complete value.
-
-**But they can enhance each other.** When these projects coexist, natural synergies emerge:
-
-- Studio Pass material could be performed at Fusion Factory
-- Dimensional Knob might generate variations of Studio Pass unreleased tracks
-- The Scouting Label could discover talent through Fusion Factory performances
-- Artists might use multiple projects in their creative workflows
-
-**These connections are opportunities, not requirements.** The projects are designed to be compatible and can integrate optionally, but integration is never mandatory. Each project has its own destiny and can thrive independently.
-
-See [docs/INTEGRATION_OPPORTUNITIES.md](./docs/INTEGRATION_OPPORTUNITIES.md) for detailed exploration of optional synergies. 
+The repository groups them because they attack different structural failures in the same industry.
 
 ## Repository Structure
 
-- **`/components`** — Detailed specifications and documentation for each independent project
+- **`/components`** — Detailed specifications and documentation for each project
   - `/studio_pass` — Fan subscription platform for unreleased material
   - `/dimensional_radio` — Real-time performance variation tool (public name: Dimensional Knob)
   - `/scouting_label` — Post-production artist discovery system
@@ -88,8 +65,6 @@ See [docs/INTEGRATION_OPPORTUNITIES.md](./docs/INTEGRATION_OPPORTUNITIES.md) for
   - `/technical` — Technical specifications and architecture
   - `/research` — Market research and industry analysis
   - `/outreach` — Communication templates and pitch materials
-  - `INTEGRATION_OPPORTUNITIES.md` — Optional synergies between projects
-
 - **`CONTRIBUTING.md`** — How to contribute to design, engineering, business, or community
 - **`COPYRIGHT.md`** — Copyright and licensing information
 
@@ -122,11 +97,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on how to contr
 
 All four projects are in **concept and design phase**. Comprehensive documentation has been created to enable:
 
-1. Independent development of each project
+1. Development of each project
 2. Understanding of problems solved and value created
 3. Technical and business planning
 4. Stakeholder engagement (artists and partners)
-5. Optional integration when projects coexist
 
 **Next steps vary by project**:
 - **Studio Pass**: Technical architecture, beta artist recruitment
